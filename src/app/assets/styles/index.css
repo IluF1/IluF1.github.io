@@ -1,0 +1,8 @@
+@import url("./reset.css");
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+body {
+    background-color: rgb(105, 105, 105);
+}
